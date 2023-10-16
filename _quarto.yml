@@ -1,13 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cmz_cv_final.pdf
 
 website:
   title: "Chris Zarbock"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
@@ -15,7 +13,4 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
-
-
-
+    toc: false
