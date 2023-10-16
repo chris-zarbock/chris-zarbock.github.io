@@ -1,0 +1,14 @@
+---
+title: "Chris Zarbock"
+about:
+    template: jolla
+    image: day_at_the_zoo.jpeg
+    links:
+      - text: email
+        icon: envelope-at
+        href: "mailto:chris.zarbock@gmail.com"
+      - text: cv
+        icon: file-person
+        href: "cmz_cv_final.pdf"
+---
+I am a molecular genetic pathology and clinical informatics fellow at WashU in St. Louis.
