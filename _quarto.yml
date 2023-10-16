@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Chris Zarbock"
+  favicon: day_at_the_zoo.jpeg
 
 format:
   html:
