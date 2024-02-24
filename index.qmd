@@ -6,9 +6,9 @@ about:
     links:
       - text: email
         icon: envelope-at
-        href: "mailto:chris.zarbock@gmail.com"
+        href: "mailto:chris@zarbock.org"
       - text: cv
         icon: file-person
         href: "cmz_cv_final.pdf"
 ---
-I am a molecular genetic pathology and clinical informatics fellow at WashU in St. Louis.
+I am a molecular and informatics fellow at WashU in St. Louis.
