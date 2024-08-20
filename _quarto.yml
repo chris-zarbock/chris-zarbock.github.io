@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - cmz_cv_final.pdf
+    - cmz_cv_i.pdf
 
 website:
   title: "Chris Zarbock"

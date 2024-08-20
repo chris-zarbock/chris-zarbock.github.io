@@ -9,6 +9,6 @@ about:
         href: "mailto:chris@zarbock.org"
       - text: cv
         icon: file-person
-        href: "cmz_cv_final.pdf"
+        href: "cmz_cv_i.pdf"
 ---
 I am a molecular and informatics fellow at WashU in St. Louis.
