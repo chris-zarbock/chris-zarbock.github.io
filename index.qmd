@@ -6,7 +6,7 @@ about:
     links:
       - text: email
         icon: envelope-at
-        href: "mailto:chris@zarbock.org"
+        href: "mailto:zarbock@wustl.edu"
       - text: cv
         icon: file-person
         href: "cmz_cv_i.pdf"
